@@ -48,6 +48,111 @@
   color: #274C5B;
   flex-shrink: 0;
 }
+.about-us__block1 .about-us__block1__patterns .about-us__block1__patterns_garlic {
+  position: absolute;
+  top: 23.53px;
+  right: 1078.95px;
+  bottom: 278.4px;
+  left: 693.39px;
+}
+.about-us__block1 .about-us__block1__patterns .about-us__block1__patterns_strawberry {
+  position: absolute;
+  top: 0;
+  right: 578.37px;
+  bottom: 321.79px;
+  left: 1217px;
+}
+.about-us__block1 .about-us__block1__patterns .about-us__block1__patterns_seeds {
+  position: absolute;
+  top: 300px;
+  right: 885.8px;
+  bottom: 12.96px;
+  left: 885px;
+}
+.about-us__block1 .about-us__block1__patterns .about-us__block1__patterns_leaves {
+  position: absolute;
+  top: 300px;
+  right: 1126.52px;
+  bottom: 46.89px;
+  left: 690px;
+}
+.about-us__block1 .about-us__block1__patterns .about-us__block1__patterns_part1 {
+  position: absolute;
+  top: 387.41px;
+  right: 1287.85px;
+  bottom: 0;
+  left: 401.48px;
+}
+.about-us__block1 .about-us__block1__patterns .about-us__block1__patterns_part2 {
+  position: absolute;
+  top: 267.1px;
+  right: 1360.09px;
+  bottom: 0;
+  left: 362.73px;
+}
+.about-us__block1 .about-us__block1__patterns .about-us__block1__patterns_part3 {
+  position: absolute;
+  top: 316.17px;
+  right: 1409.6px;
+  bottom: 32.78px;
+  left: 439.73px;
+}
+.about-us__block1 .about-us__block1__patterns .about-us__block1__patterns_part4 {
+  position: absolute;
+  top: 324.22px;
+  right: 1434.29px;
+  bottom: 75.75px;
+  left: 459.25px;
+}
+.about-us__block1 .about-us__block1__patterns .about-us__block1__patterns_part5 {
+  position: absolute;
+  top: 362.08px;
+  right: 1474.64px;
+  bottom: 49.04px;
+  left: 416.71px;
+}
+.about-us__block1 .about-us__block1__patterns .about-us__block1__patterns_part6 {
+  position: absolute;
+  top: 375.52px;
+  right: 1486.84px;
+  bottom: 16.39px;
+  left: 385.96px;
+}
+.about-us__block1 .about-us__block1__patterns .about-us__block1__patterns_part7 {
+  position: absolute;
+  top: 391.01px;
+  right: 1425.25px;
+  bottom: 1.66px;
+  left: 426.38px;
+}
+.about-us__block1 .about-us__block1__patterns .about-us__block1__patterns_part8 {
+  position: absolute;
+  top: 405.39px;
+  right: 1448.62px;
+  bottom: 17.78px;
+  left: 453.1px;
+}
+.about-us__block1 .about-us__block1__patterns .about-us__block1__patterns_part9 {
+  position: absolute;
+  top: 352.75px;
+  right: 1425.81px;
+  bottom: 66.41px;
+  left: 472.33px;
+}
+.about-us__block1 .about-us__block1__patterns .about-us__block1__patterns_part10 {
+  position: absolute;
+  top: 331.82px;
+  right: 1441.82px;
+  bottom: 87.8px;
+  left: 452.21px;
+}
+.about-us__block1 .about-us__block1__patterns .about-us__block1__patterns_part11 {
+  position: absolute;
+  top: 365.77px;
+  right: 1490.2px;
+  bottom: 0;
+  left: 208px;
+}
 
 .about-us__block2 {
   width: 1920px;
